@@ -998,3 +998,11 @@
 {"C": 0.1, "B": 10, "learning_rate": 0.1, "comm_round": 998, "train_acc": 0.9721, "test_acc": 0.9642, "train_loss": 0.0833, "test_loss": 0.1112, "val_acc": 0.961, "val_loss": 0.1181}
 {"C": 0.1, "B": 10, "learning_rate": 0.1, "comm_round": 999, "train_acc": 0.9663, "test_acc": 0.9597, "train_loss": 0.0986, "test_loss": 0.125, "val_acc": 0.9577, "val_loss": 0.135}
 {"C": 0.1, "B": 10, "learning_rate": 0.1, "comm_round": 1000, "train_acc": 0.9642, "test_acc": 0.9558, "train_loss": 0.1065, "test_loss": 0.1368, "val_acc": 0.9526, "val_loss": 0.1456}
+{"C": 0.1, "B": 10, "learning_rate": 0.1, "comm_round": 1001, "train_acc": 0.9603, "test_acc": 0.9531, "train_loss": 0.1265, "test_loss": 0.1488, "val_acc": 0.9563, "val_loss": 0.1495}
+{"C": 0.1, "B": 10, "learning_rate": 0.1, "comm_round": 1002, "train_acc": 0.9688, "test_acc": 0.9634, "train_loss": 0.0943, "test_loss": 0.1148, "val_acc": 0.9649, "val_loss": 0.1177}
+{"C": 0.1, "B": 10, "learning_rate": 0.1, "comm_round": 1003, "train_acc": 0.97, "test_acc": 0.9655, "train_loss": 0.0931, "test_loss": 0.1124, "val_acc": 0.9649, "val_loss": 0.1158}
+{"C": 0.1, "B": 10, "learning_rate": 0.1, "comm_round": 1004, "train_acc": 0.9692, "test_acc": 0.965, "train_loss": 0.0947, "test_loss": 0.1128, "val_acc": 0.9652, "val_loss": 0.1166}
+{"C": 0.1, "B": 10, "learning_rate": 0.1, "comm_round": 1005, "train_acc": 0.9709, "test_acc": 0.9671, "train_loss": 0.0876, "test_loss": 0.1059, "val_acc": 0.9649, "val_loss": 0.1123}
+{"C": 0.1, "B": 10, "learning_rate": 0.1, "comm_round": 1006, "train_acc": 0.9726, "test_acc": 0.9687, "train_loss": 0.0822, "test_loss": 0.102, "val_acc": 0.967, "val_loss": 0.1063}
+{"C": 0.1, "B": 10, "learning_rate": 0.1, "comm_round": 1007, "train_acc": 0.9723, "test_acc": 0.9671, "train_loss": 0.0844, "test_loss": 0.1054, "val_acc": 0.9677, "val_loss": 0.1094}
+{"C": 0.1, "B": 10, "learning_rate": 0.1, "comm_round": 1008, "train_acc": 0.9744, "test_acc": 0.9702, "train_loss": 0.0782, "test_loss": 0.1014, "val_acc": 0.9683, "val_loss": 0.1051}
