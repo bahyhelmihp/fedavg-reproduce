@@ -13,6 +13,10 @@ This repository is intended to reproduce the original Federated Learning paper (
 <br>
 Results may be different from the original paper due to some different parameter settings, though, it still proves and shows the identical pattern as shown on the paper.
 
+**Full Report** 
+- [Google Drive](https://drive.google.com/file/d/1Z_NNJJJEh8f5nHSlEG1eJ6-HAOnk9Mxf/view?usp=sharing)
+- [In-Repo](https://github.com/bahyhelmihp/fedavg-reproduce/blob/main/Federated%20Learning%20(FedAVG)%20-%20Bahy.pdf)
+
 **Reference**
 <br>
 [1] H. B. McMahan, E. Moore, D. Ramage, S. Hampson, and B. A. Y. Arcas, “Communication-efficient
